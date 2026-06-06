@@ -22,11 +22,13 @@
 ### 有表情包
 
 本地图库，随缘发图。
+
 <img src="./pic-for-github/meme.jpg" width="400" />
 
 ### 自带眼睛
 
 本地 Qwen3-VL 2B 跑在显卡上。60% 自己看图回话，40% 发本地表情包。GIF 抽 4 帧拼起来认。文字+图时，图的内容会进聊天上下文。
+
 <img src="./pic-for-github/fkme.jpg" width="400" />
 
 
