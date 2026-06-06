@@ -4,7 +4,7 @@
 
 直接把reproduce-doc.md喂给Agent让它自己造bot就好啦。
 
-![](./pic-for-github/meme.png)
+![](./pic-for-github/meme.jpg)
 
 ---
 
