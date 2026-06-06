@@ -2,9 +2,15 @@
 
 一个在 QQ 群里像真人一样聊天、自带眼睛看图的 bot。接梗、吐槽、糊弄、汪汪叫，有时帮你看图。
 
+<img src="./pic-for-github/woof.jpg" width="400" />
+
+---
+
+## 安装：
+
 直接把reproduce-doc.md喂给Agent让它自己造bot就好啦。
 
-<img src="./pic-for-github/woof.jpg" width="400" />
+
 
 ---
 
