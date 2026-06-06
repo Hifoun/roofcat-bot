@@ -1,4 +1,4 @@
-# roofcat Bot
+# Roofcat Bot
 
 一个在 QQ 群里像真人一样聊天、自带眼睛看图的 bot。接梗、吐槽、糊弄、汪汪叫，有时帮你看图。
 
