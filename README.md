@@ -10,7 +10,7 @@
 
 ## 安装：
 
-直接把 reproduce-doc.md 喂给 Agent (比如 OpenCode) 让它自己造 bot 就好啦。
+直接把 reproduce-doc.md 喂给 Agent ( 比如 OpenCode ) 让它自己造 bot 就好啦。
 
 
 ---
