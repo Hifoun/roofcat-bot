@@ -4,6 +4,8 @@
 
 <img src="./pic-for-github/woof.jpg" width="400" />
 
+<img src="./pic-for-github/macfly.jpg" width="400" />
+
 ---
 
 ## 安装：
